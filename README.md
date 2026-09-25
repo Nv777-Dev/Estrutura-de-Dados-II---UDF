@@ -1,6 +1,6 @@
 # ⚜️ Estruturas de Dados II - UDF
 
-# 📂 **Organização do Repositório**  
+## 📂 **Organização do Repositório**  
 O repositório foi estruturado por categorias para otimizar a organização e a busca de arquivos.
 
 # **📁 Aulas**
